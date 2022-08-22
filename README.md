@@ -4,8 +4,11 @@ Dbank project with the internet computer development language `motoko`.
 
 - On testing this project, you might want to explore the project directory structure and the default configuration file by `forking or cloning this repo to have a copy`. 
 - If you wish to contribute to this project do make a `PR`. Working with this project in your development environment will not affect any production deployment or identity tokens.
+- BackEnd uses `motoko` and `Reactjs` for the FrontEnd.
 
-To learn more before you start working with dbank, see the following documentation available online:
+---
+
+### To learn more before you start working with dbank, see the following documentation available online:
 
 - [Quick Start](https://sdk.dfinity.org/docs/quickstart/quickstart-intro.html)
 - [SDK Developer Tools](https://sdk.dfinity.org/docs/developers-guide/sdk-guide.html)
